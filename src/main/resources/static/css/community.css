@@ -1,0 +1,11 @@
+.main {
+    margin: 30px;
+    background-color: white;
+}
+.submitBtn {
+    float: right;
+    margin-bottom: 20px;
+}
+.body {
+    background-color: #efefef;
+}
